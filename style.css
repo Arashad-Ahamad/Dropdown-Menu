@@ -24,7 +24,6 @@ body {
     display: flex;
     justify-content: center;
     gap: 8px;
-
     color: rgba(255, 255, 255, 1);
 }
 
